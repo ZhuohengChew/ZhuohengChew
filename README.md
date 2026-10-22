@@ -13,28 +13,25 @@
 
 ### 🛠️ Tech stack
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,py,cpp,js,ts,html,css,react,mysql,git&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,html,css,react,mysql,git&theme=light" alt="Tech stack" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,html,css,react,mysql,git&theme=dark" alt="Tech stack" />
 </p>
 
 ### 📊 GitHub stats
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ZhuohengChew&show_icons=true&hide_rank=true&hide_border=true&theme=github_dark" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZhuohengChew&show_icons=true&hide_rank=true&hide_border=true" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ZhuohengChew&show_icons=true&hide_rank=true&theme=github_dark&bg_color=161b22&border_color=30363d" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZhuohengChew&show_icons=true&hide_rank=true&bg_color=f6f8fa&border_color=d0d7de&title_color=0969da&icon_color=0969da&text_color=1f2328" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuohengChew&layout=compact&hide_border=true&theme=github_dark" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuohengChew&layout=compact&hide_border=true" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuohengChew&layout=compact&theme=github_dark&bg_color=161b22&border_color=30363d" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuohengChew&layout=compact&bg_color=f6f8fa&border_color=d0d7de&title_color=0969da&icon_color=0969da&text_color=1f2328" alt="Top languages" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ZhuohengChew&hide_border=true&theme=dark&background=0D1117" />
-    <img src="https://streak-stats.demolab.com?user=ZhuohengChew&hide_border=true" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ZhuohengChew&theme=dark&background=161B22&border=30363D" />
+    <img src="https://streak-stats.demolab.com?user=ZhuohengChew&background=F6F8FA&border=D0D7DE" alt="GitHub streak" />
   </picture>
 </p>
 
