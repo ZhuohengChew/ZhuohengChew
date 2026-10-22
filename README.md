@@ -13,17 +13,29 @@
 
 ### 🛠️ Tech stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,html,css,react,mysql,git" alt="Tech stack" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,py,cpp,js,ts,html,css,react,mysql,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,html,css,react,mysql,git&theme=light" alt="Tech stack" />
+  </picture>
 </p>
 
 ### 📊 GitHub stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZhuohengChew&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuohengChew&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ZhuohengChew&show_icons=true&hide_rank=true&hide_border=true&theme=github_dark" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZhuohengChew&show_icons=true&hide_rank=true&hide_border=true" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuohengChew&layout=compact&hide_border=true&theme=github_dark" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuohengChew&layout=compact&hide_border=true" alt="Top languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZhuohengChew&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ZhuohengChew&hide_border=true&theme=dark&background=0D1117" />
+    <img src="https://streak-stats.demolab.com?user=ZhuohengChew&hide_border=true" alt="GitHub streak" />
+  </picture>
 </p>
 
 <!-- Generated daily by .github/workflows/snake.yml into the `output` branch -->
