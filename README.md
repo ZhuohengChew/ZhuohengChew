@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,js,html,css,react,mysql,git" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,html,css,react,mysql,git" alt="Tech stack" />
 </p>
 
 ### 📊 GitHub stats
